@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPagesDVD_Inventory", "RazorPagesDVD_Inventory.csproj", "{B831D70D-0FE5-42B1-94E0-402B3087CCEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B831D70D-0FE5-42B1-94E0-402B3087CCEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B831D70D-0FE5-42B1-94E0-402B3087CCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B831D70D-0FE5-42B1-94E0-402B3087CCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B831D70D-0FE5-42B1-94E0-402B3087CCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38413B46-72B0-4807-B241-7721ADE82D66}
+	EndGlobalSection
+EndGlobal
